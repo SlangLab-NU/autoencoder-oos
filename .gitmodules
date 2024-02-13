@@ -1,0 +1,3 @@
+[submodule "Few-Shot-Intent-Detection"]
+	path = Few-Shot-Intent-Detection
+	url = https://github.com/jianguoz/Few-Shot-Intent-Detection
