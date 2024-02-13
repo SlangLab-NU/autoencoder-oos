@@ -1,0 +1,6 @@
+*.pth
+*.out
+*.db
+.idea
+.ipynb_checkpoints
+venv
