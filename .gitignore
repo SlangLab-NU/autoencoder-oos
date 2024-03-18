@@ -7,3 +7,4 @@ venv
 *run.py
 *.err
 stack_overflow.csv
+stack_overflow_sample.csv
