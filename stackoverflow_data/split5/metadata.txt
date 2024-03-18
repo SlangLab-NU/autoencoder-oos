@@ -1,5 +1,5 @@
-Train size: 1801720
-Validation size: 386083
-Test size: 386083
-OOS Validation size: 398241
-OOS Test size: 398241
+Train size: 75180
+Validation size: 16110
+Test size: 16111
+OOS Validation size: 17380
+OOS Test size: 17380
