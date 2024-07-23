@@ -1,6 +1,3 @@
 [submodule "Few-Shot-Intent-Detection"]
 	path = Few-Shot-Intent-Detection
 	url = https://github.com/jianguoz/Few-Shot-Intent-Detection
-[submodule "slurp"]
-	path = slurp
-	url = https://github.com/pswietojanski/slurp
