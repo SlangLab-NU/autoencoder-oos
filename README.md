@@ -21,4 +21,27 @@ We evaluated our approach on the following datasets:
 - MTOP-EN: A task-oriented dataset with hierarchical intent labels used for evaluating the performance of the proposed model.
 - Car Assistant Dataset: An internal dataset that captures user interactions with a virtual assistant in an automotive setting.
 
+## How to Use
+1. Clone the Repository
+```bash
+git clone https://github.com/SlangLab-NU/autoencoder-oos.git
+cd autoencoder-oos
+```
+2. Install Dependencies
+Use the requirements.txt file to install the necessary dependencies. We recommend using a virtual environment to avoid conflicts:
+```bash
+pip install -r requirements.txt
+```
+3. Run Experiments in jupyter lab. `crossentropy_fine.ipynb` contains code for cross entropy loss only and `autoencoder_fine` contains our experiment method.
+```bash
+jupyter-lab 
+```
+
+## Results
+The results show that our approach consistently improves OOS rejection while maintaining high performance on in-scope intent classification tasks. The improvements in the AUPR for OOS detection across multiple datasets demonstrate the effectiveness of autoencoder regularization.
+
+## Citation
+
+TBD
+
 
